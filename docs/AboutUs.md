@@ -29,30 +29,30 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Team Lead
 * Responsibilities: UI
 
-### Johnny Doe
+### Aaron Leong
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/aaronl248.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](http://github.com/aaronl248)]
 
 * Role: Developer
 * Responsibilities: Data
 
-### Jean Doe
+### Laxshan
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/slytherax.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/Slytherax)]
+[[portfolio](*TODO LATER*)]
 
 * Role: Developer
-* Responsibilities: Dev Ops + Threading
+* Responsibilities: Codex Specialist
 
-### James Doe
+### Aarav Jayapalan 
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/purpleshark74.png" width="200px">
 
-[[github](http://github.com/johndoe)]
+[[github](http://github.com/purpleshark74)]
 [[portfolio](team/johndoe.md)]
 
 * Role: Developer
